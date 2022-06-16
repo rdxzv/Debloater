@@ -10,6 +10,7 @@ Gmail2 \
 YouTube \
 Flipendo \
 Wellbeing \
+FilesGoogle \
 TurboAdapter \
 TurboPrebuilt \
 GoogleFeedback \
